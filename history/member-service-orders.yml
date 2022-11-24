@@ -1,7 +1,0 @@
-url: http://ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com:8000/member-service/${userId}
-status: down
-code: 400
-responseTime: 154
-lastUpdated: 2022-11-24T05:56:18.355Z
-startTime: Thu Nov 24 2022 05:47:18 GMT+0000 (Coordinated Universal Time)
-generator: Upptime <https://github.com/upptime/upptime>
