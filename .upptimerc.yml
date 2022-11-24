@@ -11,14 +11,12 @@ sites:
     url: http://ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com:8000/member-service/login
   - name: order-service/orders
     url: http://ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com:8000/order-service/orders/**
-  - name: member-service/orders
-    url: http://ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com:8000/member-service/${userId}
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-#   cname: uptime.ecommerce.com
-  baseUrl: /upptime
+  cname: dlask913.github.io/upptime/
+#   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime for E-commerce
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
