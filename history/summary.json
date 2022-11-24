@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com.ico",
     "slug": "e-commerce",
     "status": "down",
-    "uptime": "5.93%",
-    "uptimeDay": "5.93%",
-    "uptimeWeek": "5.93%",
-    "uptimeMonth": "5.93%",
-    "uptimeYear": "5.93%",
-    "time": 395,
-    "timeDay": 395,
-    "timeWeek": 395,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "uptime": "0.29%",
+    "uptimeDay": "0.29%",
+    "uptimeWeek": "0.29%",
+    "uptimeMonth": "0.29%",
+    "uptimeYear": "0.29%",
+    "time": 343,
+    "timeDay": 343,
+    "timeWeek": 343,
+    "timeMonth": 343,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-11-24": 0
+      "2022-11-24": 6
     }
   }
 ]
