@@ -1,22 +1,22 @@
 [
   {
     "name": "E-commerce",
-    "url": "http://ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com:8000",
+    "url": "http://ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com:8000/member-service/main",
     "icon": "https://icons.duckduckgo.com/ip3/ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com.ico",
     "slug": "e-commerce",
-    "status": "down",
-    "uptime": "0.29%",
-    "uptimeDay": "0.29%",
-    "uptimeWeek": "0.29%",
-    "uptimeMonth": "0.29%",
-    "uptimeYear": "0.29%",
-    "time": 343,
-    "timeDay": 343,
-    "timeWeek": 343,
-    "timeMonth": 343,
-    "timeYear": 343,
+    "status": "up",
+    "uptime": "0.53%",
+    "uptimeDay": "0.53%",
+    "uptimeWeek": "0.53%",
+    "uptimeMonth": "0.53%",
+    "uptimeYear": "0.53%",
+    "time": 347,
+    "timeDay": 347,
+    "timeWeek": 347,
+    "timeMonth": 347,
+    "timeYear": 347,
     "dailyMinutesDown": {
-      "2022-11-24": 6
+      "2022-11-24": 9
     }
   }
 ]
