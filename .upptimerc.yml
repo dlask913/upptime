@@ -12,7 +12,7 @@ sites:
   - name: order-service/orders
     url: http://ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com:8000/order-service/orders/**
   - name: member-service/orders
-    url: http://ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com:8000/member-service/{*userId}
+    url: http://ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com:8000/member-service/${userId}
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
