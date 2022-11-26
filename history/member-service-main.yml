@@ -1,7 +1,7 @@
 url: http://ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com:8000/member-service/main
 status: up
 code: 200
-responseTime: 329
-lastUpdated: 2022-11-25T23:18:32.429Z
+responseTime: 366
+lastUpdated: 2022-11-26T23:18:04.235Z
 startTime: Thu Nov 24 2022 05:47:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
