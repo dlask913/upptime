@@ -4,63 +4,69 @@
     "url": "http://ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com:8000/member-service/main",
     "icon": "https://icons.duckduckgo.com/ip3/ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com.ico",
     "slug": "member-service-main",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 375,
     "timeDay": 399,
     "timeWeek": 375,
     "timeMonth": 375,
     "timeYear": 375,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-30": 2
+    }
   },
   {
     "name": "member-service/new",
     "url": "http://ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com:8000/member-service/new",
     "icon": "https://icons.duckduckgo.com/ip3/ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com.ico",
     "slug": "member-service-new",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 171,
     "timeDay": 191,
     "timeWeek": 171,
     "timeMonth": 171,
     "timeYear": 171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-30": 1
+    }
   },
   {
     "name": "member-service/login",
     "url": "http://ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com:8000/member-service/login",
     "icon": "https://icons.duckduckgo.com/ip3/ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com.ico",
     "slug": "member-service-login",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 172,
     "timeDay": 191,
     "timeWeek": 172,
     "timeMonth": 172,
     "timeYear": 172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-30": 1
+    }
   },
   {
     "name": "order-service/orders",
     "url": "http://ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com:8000/order-service/orders/**",
     "icon": "https://icons.duckduckgo.com/ip3/ec2-43-200-95-178.ap-northeast-2.compute.amazonaws.com.ico",
     "slug": "order-service-orders",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 185,
     "timeMonth": 185,
     "timeYear": 185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-30": 0
+    }
   }
 ]
